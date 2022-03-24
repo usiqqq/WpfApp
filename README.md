@@ -1,5 +1,5 @@
 # WpfApp
-Podstawowa obługa kontrolek
+Basic service of controls
 
 # About a project
 The user can enter data, select the available options, 
